@@ -14,7 +14,7 @@ if version > 580
     endif
 endif
 
-let colors_name="github"
+let colors_name="colors"
 
 if has("gui_running")
     set background=light
